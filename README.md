@@ -61,3 +61,48 @@ student_performance_analysis_pandas/
 ├── .gitignore
 └── LICENSE
 ```
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/srivastavakunal137/student_performance_analysis_pandas.git
+```
+
+2. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open:
+
+```text
+notebooks/Student_Performance_Analysis.ipynb
+```
+
+5. Run all cells.
+
+---
+
+## 📁 Output Files
+
+After running the notebook, the following files are generated inside the **output/** folder:
+
+- cleaned_data.csv
+- correlation_matrix.csv
+- failed_students.csv
+- grade_summary.csv
+- low_attendance.csv
+- report.csv
+- sorted_by_attendance.csv
+- sorted_by_marks.csv
+- sorted_by_study_hours.csv
+- study_more_than_8.csv
+- toppers.csv
