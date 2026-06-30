@@ -131,3 +131,17 @@ Through this project, I learned:
 - Add interactive visualizations
 - Predict student performance using Machine Learning
 - Connect the project to a SQL database
+
+---
+
+## 👨‍💻 Author
+
+**Kunal Srivastava**
+
+🎓 B.Tech CSE (Data Science)
+
+🏫 Maharana Pratap Engineering College
+
+🔗 GitHub: https://github.com/srivastavakunal137
+
+💼 LinkedIn: https://www.linkedin.com/in/kunal-srivastava-149416288
