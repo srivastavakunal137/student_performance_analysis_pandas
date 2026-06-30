@@ -29,3 +29,35 @@ This project demonstrates the complete data analysis workflow including data loa
 - Jupyter Notebook
 
 ---
+
+## 📂 Project Structure
+
+```text
+student_performance_analysis_pandas/
+│
+├── data/
+│   └── student_dataset_v2.csv
+│
+├── notebooks/
+│   └── Student_Performance_Analysis.ipynb
+│
+├── output/
+│   ├── cleaned_data.csv
+│   ├── correlation_matrix.csv
+│   ├── failed_students.csv
+│   ├── grade_summary.csv
+│   ├── low_attendance.csv
+│   ├── report.csv
+│   ├── sorted_by_attendance.csv
+│   ├── sorted_by_marks.csv
+│   ├── sorted_by_study_hours.csv
+│   ├── study_more_than_8.csv
+│   └── toppers.csv
+│
+├── src/
+├── images/
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
+```
