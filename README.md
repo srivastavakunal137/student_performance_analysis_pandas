@@ -106,3 +106,28 @@ After running the notebook, the following files are generated inside the **outpu
 - sorted_by_study_hours.csv
 - study_more_than_8.csv
 - toppers.csv
+
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I learned:
+
+- Data loading and preprocessing using Pandas
+- Handling missing values and duplicate records
+- Data transformation and feature engineering
+- Filtering, sorting, and grouping data
+- Statistical analysis using Pandas
+- Report generation and exporting data
+- Organizing a Python project using Git and GitHub
+
+---
+
+## 🚀 Future Improvements
+
+- Build an interactive dashboard using Streamlit
+- Export reports to Excel and PDF
+- Add interactive visualizations
+- Predict student performance using Machine Learning
+- Connect the project to a SQL database
