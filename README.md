@@ -22,6 +22,27 @@ This project demonstrates the complete data analysis workflow including data loa
 
 ---
 
+## 📸 Project Screenshots
+
+### Home Page
+
+<img width="897" height="502" alt="home" src="https://github.com/user-attachments/assets/109c2618-7749-47ef-baed-1a384782d82b" />
+
+
+---
+
+### Dataset Preview
+
+<img width="497" height="326" alt="dataset" src="https://github.com/user-attachments/assets/e0b4e70a-40d6-4424-b329-a2412090cdf6" />
+
+
+
+---
+
+### Final Report
+
+<img width="872" height="355" alt="report" src="https://github.com/user-attachments/assets/13734db5-8289-4a5e-aeaf-123aad6fe70c" />
+
 ## 🛠️ Technologies Used
 
 - Python
