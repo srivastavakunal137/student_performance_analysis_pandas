@@ -1,8 +1,8 @@
 # 📊 Student Performance Analysis using Pandas
 
-A complete **Data Analysis Project** built using **Python**, **Pandas**, **Matplotlib**, and **Jupyter Notebook**.
+A complete **Data Analysis Project** built using **Python**, **Pandas**, and **Jupyter Notebook**.
 
-This project demonstrates the complete data analysis workflow including data loading, cleaning, transformation, filtering, statistical analysis, report generation, and exporting results.
+This project demonstrates the complete data analysis workflow including data loading, cleaning, transformation, filtering,  report generation, and exporting results.
 
 ---
 
@@ -16,7 +16,6 @@ This project demonstrates the complete data analysis workflow including data loa
   - Result (Pass/Fail)
   - Performance Score
 - 🎯 Filter students based on different conditions
-- 📈 Perform statistical analysis
 - 📊 Generate reports
 - 💾 Export processed data to CSV
 
